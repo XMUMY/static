@@ -6,7 +6,7 @@ const RESOURCES = {
   "icons/Icon-192.png": "6b4ea9f6031012c905a82e82f82d6091",
 "icons/Icon-512.png": "67e8216384de07e96cf42829946d5aa7",
 "favicon.png": "5a218aa39cebdb43f68a3fd691e200b0",
-"main.dart.js": "9909bffafac03f4a9a365bba4df43fbd",
+"main.dart.js": "9aeb5b0c4695b2eda375d04edd0e1549",
 "index.html": "8a5722937b6690ed6e6f8c44813d3328",
 "/": "8a5722937b6690ed6e6f8c44813d3328",
 "manifest.json": "1a086f325edce20cb619b19e7fdc4474",
@@ -38,7 +38,7 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/open_iconic_flutter/assets/open-iconic.woff": "3cf97837524dd7445e9d1462e3c4afe2",
 "assets/AssetManifest.json": "1992c9b68fb4f18c0fb2a03caec70ea6",
-"assets/NOTICES": "37ff0d426d03cd38af99d1a7d8f9cf48"
+"assets/NOTICES": "489290bebfb2becd54740743682b22c6"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -55,8 +55,8 @@ const CORE = [
 self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
-      // Provide a 'reload' param to ensure the latest version is downloaded.
-      return cache.addAll(CORE.map((value) => new Request(value, {'cache': 'reload'})));
+      return cache.addAll(
+        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
     })
   );
 });
