@@ -32,7 +32,7 @@ const RESOURCES = {
 "assets/res/home/news.svg": "7a2a6edd152ffe5461bbe998c99844ee",
 "assets/FontManifest.json": "14a380732d4980463a62c35483c5a669",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
-"main.dart.js": "1f6d2e11d63f0bb199303535a47a4cf8",
+"main.dart.js": "e55e7ad64622ca0ff5c7fbfda2328c01",
 "icons/Icon-512.png": "67e8216384de07e96cf42829946d5aa7",
 "icons/Icon-192.png": "6b4ea9f6031012c905a82e82f82d6091",
 "index.html": "8a5722937b6690ed6e6f8c44813d3328",
