@@ -27,7 +27,7 @@ const RESOURCES = {
 "assets/res/translations/en.json": "67c5e2cb0a5f5fd97f6bfebfab6834a7",
 "assets/res/translations/zh-CN.json": "0453716c56c8c8bdea21daa8ad3e3611",
 "assets/res/logo.png": "99a0993313ea5fb8b85758d6a9469340",
-"assets/res/static.json": "441d5606bd8b6dd914143c0fbc4b16e1",
+"assets/res/static.json": "b236e13f8a67d6bfb071758c0a5e41dd",
 "assets/res/initpage.jpg": "99ad733b153432601e06df23fc5a7795",
 "assets/res/home/news.svg": "7a2a6edd152ffe5461bbe998c99844ee",
 "assets/FontManifest.json": "14a380732d4980463a62c35483c5a669",
