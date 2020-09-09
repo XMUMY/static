@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/NOTICES": "c1cc0f154755e59b19176c2dede94361",
+  "assets/NOTICES": "7d878074ce368702511d4e3039a1cd86",
 "assets/AssetManifest.json": "1992c9b68fb4f18c0fb2a03caec70ea6",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
@@ -24,15 +24,15 @@ const RESOURCES = {
 "assets/res/campus/klia_express.svg": "cd072c9ebddb012739680611c6d6a737",
 "assets/res/animations/stars.flr": "3f714e8b368130e65bdbca7b624a1cfd",
 "assets/res/animations/vpn.json": "731e1f93c663e7738c4e57c1d8010a76",
-"assets/res/translations/en.json": "91e6118d940e7774db4885ce441c1a56",
-"assets/res/translations/zh-CN.json": "8a03ae0e7f2c66b7505812ed50fd349a",
+"assets/res/translations/en.json": "67c5e2cb0a5f5fd97f6bfebfab6834a7",
+"assets/res/translations/zh-CN.json": "0453716c56c8c8bdea21daa8ad3e3611",
 "assets/res/logo.png": "99a0993313ea5fb8b85758d6a9469340",
 "assets/res/static.json": "441d5606bd8b6dd914143c0fbc4b16e1",
 "assets/res/initpage.jpg": "99ad733b153432601e06df23fc5a7795",
 "assets/res/home/news.svg": "7a2a6edd152ffe5461bbe998c99844ee",
 "assets/FontManifest.json": "14a380732d4980463a62c35483c5a669",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
-"main.dart.js": "262dea961c7245ca3b077f1f93ade231",
+"main.dart.js": "83a4a37de2f3eeadc5bce2d9c646f1f1",
 "icons/Icon-512.png": "67e8216384de07e96cf42829946d5aa7",
 "icons/Icon-192.png": "6b4ea9f6031012c905a82e82f82d6091",
 "index.html": "8a5722937b6690ed6e6f8c44813d3328",
