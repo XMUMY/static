@@ -6238,6 +6238,7 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 flutter_plugin_android_lifecycle
 url_launcher_web
+url_launcher_windows
 
 Copyright 2019 The Chromium Authors. All rights reserved.
 
