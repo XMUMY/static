@@ -3,43 +3,40 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "favicon.png": "5a218aa39cebdb43f68a3fd691e200b0",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "526c5da3a991768c8bf7fc83ec2869b9",
-"assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
+  "version.json": "132f0280c62172ffefa57bbc21fb3a67",
+"main.dart.js": "6acee1207fb2b27705bf3045a8bf9e9f",
+"index.html": "80a44a3307a8ecae3a7493c06d5183e6",
+"/": "80a44a3307a8ecae3a7493c06d5183e6",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
 "assets/packages/flutter_widget_from_html_core/test/images/logo.png": "57838d52c318faff743130c3fcfae0c6",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
-"assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
+"assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/en.json": "5bd908341879a431441c8208ae30e4fd",
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
-"assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
-"assets/res/logo.png": "99a0993313ea5fb8b85758d6a9469340",
-"assets/res/campus/wolfram.svg": "c34be2eb5890419d5e38fc2f958bb545",
-"assets/res/campus/maintenance.svg": "b9cae80e08be80fa21cb423efeef245c",
-"assets/res/campus/gpa.svg": "4efff844345ad45d7d2fc1a7b0eada2e",
-"assets/res/campus/vpn.svg": "beefc182629a78014647916b058e7d64",
-"assets/res/campus/travelviser.svg": "f257d1ed9975ddc9bd9315e6667b9b7e",
+"assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
+"assets/AssetManifest.json": "b30310f08bdf06e7eed8558965370eaa",
+"assets/res/init_background.jpg": "99ad733b153432601e06df23fc5a7795",
+"assets/res/static.json": "16a914f1b44fac934a24c0f0f507324f",
 "assets/res/campus/klia_express.svg": "cd072c9ebddb012739680611c6d6a737",
-"assets/res/campus/ecr.svg": "297f82fe4f4b56d11582387d21171564",
-"assets/res/campus/gpa_calculator.svg": "4a1b55cbf512e6454ab6edd9300416ce",
+"assets/res/campus/maintenance.svg": "b9cae80e08be80fa21cb423efeef245c",
+"assets/res/campus/vpn.svg": "beefc182629a78014647916b058e7d64",
+"assets/res/campus/wolfram.svg": "c34be2eb5890419d5e38fc2f958bb545",
 "assets/res/campus/geogebra.svg": "dfc4705883c2c8655c045b98479c386f",
-"assets/res/initpage.jpg": "99ad733b153432601e06df23fc5a7795",
-"assets/res/translations/zh-CN.json": "0453716c56c8c8bdea21daa8ad3e3611",
-"assets/res/translations/en.json": "67c5e2cb0a5f5fd97f6bfebfab6834a7",
-"assets/res/static.json": "b236e13f8a67d6bfb071758c0a5e41dd",
-"assets/res/home/news.svg": "7a2a6edd152ffe5461bbe998c99844ee",
-"assets/res/animations/stars.flr": "3f714e8b368130e65bdbca7b624a1cfd",
-"assets/res/animations/vpn.json": "731e1f93c663e7738c4e57c1d8010a76",
-"assets/AssetManifest.json": "2750bd6133b041d160debd8d5d5a5d90",
-"manifest.json": "1a086f325edce20cb619b19e7fdc4474",
-"main.dart.js": "66e01fe63a1e3b6ea50ab8051ca5b198",
-"version.json": "4269c48f4c078720bb5a410b63934eb1",
-"index.html": "58cd4770870c08ae5615548fc14c776a",
-"/": "58cd4770870c08ae5615548fc14c776a",
+"assets/res/campus/gpa_calculator.svg": "4a1b55cbf512e6454ab6edd9300416ce",
+"assets/res/campus/ecr.svg": "297f82fe4f4b56d11582387d21171564",
+"assets/res/campus/transcript.svg": "4efff844345ad45d7d2fc1a7b0eada2e",
+"assets/res/campus/travelviser.svg": "f257d1ed9975ddc9bd9315e6667b9b7e",
+"assets/res/logo_outlined.png": "99a0993313ea5fb8b85758d6a9469340",
+"assets/res/translation/en.json": "716821ba32d4aff9d0635e430c6301ff",
+"assets/res/translation/zh-CN.json": "858af8c5aed45ed1658846daa2dc86f3",
+"assets/NOTICES": "da9e22335899800a83b5097d5dc01646",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
+"icons/Icon-512.png": "67e8216384de07e96cf42829946d5aa7",
 "icons/Icon-192.png": "6b4ea9f6031012c905a82e82f82d6091",
-"icons/Icon-512.png": "67e8216384de07e96cf42829946d5aa7"
+"manifest.json": "dd75b8eeacc4d3391ec8499bc53dc6c7",
+"favicon.png": "5a218aa39cebdb43f68a3fd691e200b0"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -57,7 +54,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
@@ -183,7 +180,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }

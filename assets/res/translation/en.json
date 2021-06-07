@@ -1,0 +1,51 @@
+{
+  "Weekdays": {
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday",
+    "7": "Sunday"
+  },
+  "SignIn": {
+    "Privacy": "Privacy Policy",
+    "Docs": "Help Docs",
+    "SignIn": "Sign in",
+    "CampusID": "Campus ID",
+    "Password": "Password",
+    "Read": "By signing in, you agree to our privacy policy & disclaimer.",
+    "Register": "Register",
+    "RegisterTitle": "Welcome to XMUM!",
+    "RegisterCaption": "We still need some information to complete your registration.",
+    "RegisterDisplayName": "Display Name",
+    "RegisterEmail": "Email",
+    "ErrorFormat": "Invalid format."
+  },
+  "Calendar": {
+    "Calendar": "Calendar",
+    "Classes": "Classes",
+    "Exams": "Exams",
+    "Assignments": "Assignments",
+    "AssignmentsDoing": "Doing",
+    "AssignmentsExpired": "Expired",
+    "AssignmentsDueDate": "Due Date",
+    "UpcomingEvents": "Events",
+    "Notifications": "Notifications",
+    "Academic": "Academic Calendar"
+  },
+  "Campus": {
+    "Campus": "Campus",
+    "Academic": "Academic Utilities",
+    "AcademicTranscript": "Transcript",
+    "AcademicTranscriptCourses": "Courses",
+    "AcademicTranscriptCredits": "Credits",
+    "Tools": "Campus Utilities",
+    "BusSchedule": "Bus Schedule",
+    "KliaExpress": "KLIA Express",
+    "Emgs": "VISA Status",
+    "EmgsNo": "NO.",
+    "EmgsType": "Type",
+    "EmgsHistory": "Progress History"
+  }
+}
