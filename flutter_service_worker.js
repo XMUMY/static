@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "132f0280c62172ffefa57bbc21fb3a67",
-"main.dart.js": "5850268d0193aea7211c71faec68574e",
-"index.html": "278991b0a592f00971be901769c4f470",
-"/": "278991b0a592f00971be901769c4f470",
+"main.dart.js": "51cba45432e677e3bbbe6e23c9057dc9",
+"index.html": "58b1a8bf9b9f7c02a90e45a76dcf2760",
+"/": "58b1a8bf9b9f7c02a90e45a76dcf2760",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
@@ -28,8 +28,8 @@ const RESOURCES = {
 "assets/res/campus/transcript.svg": "4efff844345ad45d7d2fc1a7b0eada2e",
 "assets/res/campus/travelviser.svg": "f257d1ed9975ddc9bd9315e6667b9b7e",
 "assets/res/logo_outlined.png": "99a0993313ea5fb8b85758d6a9469340",
-"assets/res/translation/en.json": "0a8c2872d846c4a1c3bce8114247ec33",
-"assets/res/translation/zh-CN.json": "626d90ae88322c42b6db7fc22d0b65c6",
+"assets/res/translation/en.json": "fe8668b501361c4d9aeea07263d1e28a",
+"assets/res/translation/zh-CN.json": "05235d3590b547cc5bffae8f6ca24d4a",
 "assets/NOTICES": "0cce6b8cd7fd01b1588482ed8cff96e3",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
