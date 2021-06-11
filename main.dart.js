@@ -26093,9 +26093,9 @@ return b.a<=s&&s<=b.b},
 jB:function(a){var s=a.V(t.m).f.a.a
 if(T.ha(a,C.d5))return 16
 if(T.ha(a,C.f_))return 32
-if(T.ha(a,C.BQ))return(s-840)/2
+if(T.ha(a,C.BQ))return Math.max((s-840)/2,0)
 if(T.ha(a,C.om))return 200
-return(s-1040)/2},
+return Math.max((s-1040)/2,0)},
 ph:function ph(a,b,c,d){var _=this
 _.a=a
 _.b=b
