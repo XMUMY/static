@@ -15,9 +15,9 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/NOTICES": "ffcf3fea8e34ddfab359e28b9b851697",
-"assets/res/translation/en.json": "a296628dd8910f3292a38dcbf7ce329a",
-"assets/res/translation/zh-Hans.json": "ea7965fb19e05b8e870146563fc2c572",
-"assets/res/translation/zh-CN.json": "ea7965fb19e05b8e870146563fc2c572",
+"assets/res/translation/en.json": "dc2eb4a23900078934d67bb3685a4119",
+"assets/res/translation/zh-Hans.json": "d3d8e91bd6670c88f772344838ce7e12",
+"assets/res/translation/zh-CN.json": "d3d8e91bd6670c88f772344838ce7e12",
 "assets/res/init_background.jpg": "99ad733b153432601e06df23fc5a7795",
 "assets/res/campus/transcript.svg": "4efff844345ad45d7d2fc1a7b0eada2e",
 "assets/res/campus/geogebra.svg": "dfc4705883c2c8655c045b98479c386f",
@@ -33,9 +33,9 @@ const RESOURCES = {
 "favicon.png": "5a218aa39cebdb43f68a3fd691e200b0",
 "manifest.json": "dd75b8eeacc4d3391ec8499bc53dc6c7",
 "version.json": "0b68b9ced114827c85b31559477f816c",
-"main.dart.js": "e626420f56cb0f0ece75ee45987e9fb2",
-"index.html": "db369d31fbb99e8921c46f99a3a6eef3",
-"/": "db369d31fbb99e8921c46f99a3a6eef3"
+"main.dart.js": "9beea03bad9b7b48541e1441170d2c0d",
+"index.html": "138c032421f25d143c014789e0e79543",
+"/": "138c032421f25d143c014789e0e79543"
 };
 
 // The application shell files that are downloaded before a service worker can
