@@ -92,11 +92,28 @@
     <div class="sk-cube sk-cube8"></div>
     <div class="sk-cube sk-cube9"></div>
 </div>
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+<!-- Firebase Configuration -->
+<script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyDUFv5AhC_bDCs2ctDlmAK4XkSVYOMA0cM",
+      authDomain: "xmux-app.firebaseapp.com",
+      databaseURL: "https://xmux-app.firebaseio.com",
+      projectId: "xmux-app",
+      storageBucket: "xmux-app.appspot.com",
+      messagingSenderId: "899332542714",
+      appId: "1:899332542714:web:cd01bc52aa4cae98c4b943",
+      measurementId: "G-Q22TEK7T9G"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+</script>
 <!-- This script installs service_worker.js to provide PWA functionality to
      application. For more information, see:
      https://developers.google.com/web/fundamentals/primers/service-workers -->
 <script>
-    var serviceWorkerVersion = '2585577458';
+    var serviceWorkerVersion = '1618699134';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
