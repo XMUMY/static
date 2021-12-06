@@ -11,10 +11,9 @@ const RESOURCES = {
 "icons/Icon-192.png": "93c70bfccb032b7eaad7077b8ed303d8",
 "main.dart.js": "e2409152385c53592d7057563f8199de",
 "favicon.png": "d0751859a4bf2c4d5b1e24dab1f97d33",
-"index.html": "970ec36c6947ee5febd4544b616c6c59",
-"/": "970ec36c6947ee5febd4544b616c6c59",
-"assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"index.html": "a766f9858a090153d4ac4b9d72ed3cc3",
+"/": "a766f9858a090153d4ac4b9d72ed3cc3",
+"assets/FontManifest.json": "d751713988987e9331980363e24189ce",
 "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/NOTICES": "3197936b83e088cc0c30f41bb0569e47"
 };
