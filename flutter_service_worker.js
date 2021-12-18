@@ -37,8 +37,8 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
-"index.html": "142e538bf2a24273ec76099c5e04f115",
-"/": "142e538bf2a24273ec76099c5e04f115",
+"index.html": "9c095131f588278be448d31e876f397e",
+"/": "9c095131f588278be448d31e876f397e",
 "favicon.png": "5a218aa39cebdb43f68a3fd691e200b0"
 };
 
