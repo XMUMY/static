@@ -1,4 +1,8 @@
 {
+  "About": "About",
+  "More": "More",
+  "ServiceStatus": "Service Status",
+  "SignOut": "Sign Out",
   "Weekdays": {
     "1": "Monday",
     "2": "Tuesday",
@@ -22,8 +26,6 @@
     "RegisterEmail": "Email",
     "ErrorFormat": "Invalid format."
   },
-  "SignOut": "Sign Out",
-  "About": "About",
   "Calendar": {
     "Calendar": "Calendar",
     "CalendarCardCode": "Code",
