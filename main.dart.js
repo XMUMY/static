@@ -128976,7 +128976,7 @@ return s.giD()[0].$1(new A.a6g(null,r))},
 $S:0}
 A.ID.prototype={
 Lv(a,b){return A.beE(new A.b5W(a),A.btR(A.d0(b,0,null)).oJ(0,B.TG,new A.b5X()),t.Wd)},
-u(a,b){var s=null,r=A.a2(A.ay("ServiceStatus"),s,s,s,s,s,s,s,s),q=A.a([this.Lv("XMUX","https://api.xmux.xdea.io"),this.Lv("Moodle","https://l.xmu.edu.my")],t.p)
+u(a,b){var s=null,r=A.a2(A.ay("ServiceStatus"),s,s,s,s,s,s,s,s),q=A.a([this.Lv("XMUX","https://api.xmux.xdea.io"),this.Lv("Moodle","https://l.xmu.edu.my/webservice/rest/server.php")],t.p)
 q.push(this.Lv("Media Site Video","https://myv.xmu.edu.cn/MediasiteDeliver/"))
 return A.bpf(q,B.U7,s,r,B.Ut)}}
 A.b5X.prototype={
@@ -129392,7 +129392,7 @@ s.a.iQ(11,r)
 return r},
 $S:0}
 A.b46.prototype={
-$1(a){return A.blZ(new A.b45(this.a),!1,0.73,0.9,0.25,!0,B.a_g)},
+$1(a){return A.blZ(new A.b45(this.a),!1,0.73,0.9,0.6,!0,B.a_g)},
 $S:936}
 A.b45.prototype={
 $2(a,b){return new A.yW(this.a.a.d,b,null)},
