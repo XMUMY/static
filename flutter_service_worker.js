@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "c50a4757bf89a5f43eeebdf19ea094ae",
-"index.html": "717381beb7bbe43a6a13690070cba31f",
-"/": "717381beb7bbe43a6a13690070cba31f",
+  "main.dart.js": "7ec423e8b537f39c60a3d3019831a88a",
+"index.html": "c9217dca4e4e8a5f4bc54439b6347481",
+"/": "c9217dca4e4e8a5f4bc54439b6347481",
 "favicon.png": "5a218aa39cebdb43f68a3fd691e200b0",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
+"flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/AssetManifest.json": "e2777c5067f0e5ae2a4f9478511b6864",
 "assets/packages/easy_localization/i18n/en.json": "5f5fda8715e8bf5116f77f469c5cf493",
 "assets/packages/easy_localization/i18n/ar-DZ.json": "acc0a8eebb2fcee312764600f7cc41ec",
@@ -32,11 +33,11 @@ const RESOURCES = {
 "assets/res/campus/vpn.svg": "beefc182629a78014647916b058e7d64",
 "assets/res/campus/transcript.svg": "4efff844345ad45d7d2fc1a7b0eada2e",
 "assets/res/campus/geogebra.svg": "dfc4705883c2c8655c045b98479c386f",
-"assets/NOTICES": "cb82018f3dc54dcf7addef130b59806e",
+"assets/NOTICES": "354b2be403d429b5377698081e8b8b9b",
 "icons/Icon-192.png": "6b4ea9f6031012c905a82e82f82d6091",
 "icons/Icon-512.png": "67e8216384de07e96cf42829946d5aa7",
 "manifest.json": "dd75b8eeacc4d3391ec8499bc53dc6c7",
-"version.json": "60f41f35479c2921d08b265ed20b2371",
+"version.json": "28d9633ae131a1680c4cf7f914630c1f",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -46,8 +47,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
