@@ -11,7 +11,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"version.json": "8e70b2a163bfcba3e3856219cad8bc50",
+"version.json": "bcc39d747bfc0085cdf68276a4b3c140",
 "assets/res/logo_outlined.png": "99a0993313ea5fb8b85758d6a9469340",
 "assets/res/translation/zh-CN.json": "57f518496c6a6e94775013be571e4762",
 "assets/res/translation/zh-Hans.json": "57f518496c6a6e94775013be571e4762",
@@ -38,8 +38,8 @@ const RESOURCES = {
 "assets/NOTICES": "275dad2f4eb990eb74c05f7ecec4fb11",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"index.html": "dac9d1822c7811d37de83d03d55aba15",
-"/": "dac9d1822c7811d37de83d03d55aba15",
+"index.html": "8b500af7f87791236de7434166aef72c",
+"/": "8b500af7f87791236de7434166aef72c",
 "manifest.json": "dd75b8eeacc4d3391ec8499bc53dc6c7"
 };
 
