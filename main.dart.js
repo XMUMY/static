@@ -158892,7 +158892,7 @@ A.bcO.prototype={}
 A.a5s.prototype={
 C(a){var s=$.ex(),r=A.ra(new A.aDZ(),new A.aE_(),!0,t.Tz,t.Xa)
 $.pS().$3$level$stackTrace("Start",B.dQ,null)
-return new A.Q1(new A.yo(s,r,null,t.zn),B.a6b,B.D2,"res/translation",!1,null)}}
+return new A.Q1(new A.yo(s,r,null,t.zn),B.a6b,B.D2,"assets/translation",!1,null)}}
 A.aE_.prototype={
 $1(a){var s=a.c
 s===$&&A.b()
@@ -159375,16 +159375,16 @@ $S:131}
 A.Fo.prototype={
 KG(a,b){return new A.aFJ(a,b)},
 C(a){var s,r,q,p=this,o=null,n=B.aY.fu(a)?24:16,m=A.a4(A.aC("Campus.Academic"),o,o,o,o,A.E(a).ok.f,o,o,o),l=t.p,k=A.a([],l)
-if($.bD4())k.push(new A.yS(o,"res/campus/geogebra.svg","GeoGebra",p.KG(a,"/campus/geogebra"),o))
+if($.bD4())k.push(new A.yS(o,"assets/campus/geogebra.svg","GeoGebra",p.KG(a,"/campus/geogebra"),o))
 s=$.ex()
 r=s.c
 r===$&&A.b()
 r=r.b
 q=$.bJt().b
-if(q.test(r.a))k.push(new A.yS(o,"res/campus/transcript.svg",A.aC("Campus.AcademicTranscript"),p.KG(a,"/campus/transcript"),o))
+if(q.test(r.a))k.push(new A.yS(o,"assets/campus/transcript.svg",A.aC("Campus.AcademicTranscript"),p.KG(a,"/campus/transcript"),o))
 s=s.c.b
-if(q.test(s.a))k.push(new A.yS(o,"res/campus/gpa_calculator.svg",A.aC("Campus.GPACalculator"),p.KG(a,"/campus/gpa_calculator"),o))
-k.push(new A.yS(o,"res/campus/vpn.svg","VPN",new A.aFK(),o))
+if(q.test(s.a))k.push(new A.yS(o,"assets/campus/gpa_calculator.svg",A.aC("Campus.GPACalculator"),p.KG(a,"/campus/gpa_calculator"),o))
+k.push(new A.yS(o,"assets/campus/vpn.svg","VPN",new A.aFK(),o))
 k=A.Lb(B.mY,k,B.fV,0)
 s=A.a4(A.aC("Campus.Tools"),o,o,o,o,A.E(a).ok.f,o,o,o)
 r=A.a([],l)
@@ -160384,7 +160384,7 @@ o=t.p
 r=A.fh(A.a([A.QX(p.as,A.oS(B.kN,A.E(a).k2.f,l,l),0,l,l,!0,j,l)],o),l,l,!0,q.as,l,1,!0,l,0,!1,l,!1,l,l,l,l,!0,l,l,l,l,l,r,l,l,l,1,l,!0)
 o=A.a([],o)
 j=t.l
-if(A.ar(a,l,j).w.f.d===0&&A.ar(a,l,j).w.a.b>700)o.push(A.k9(10,A.bR4("res/campus/maintenance.svg",l,150),l,l,l,5,l,l))
+if(A.ar(a,l,j).w.f.d===0&&A.ar(a,l,j).w.a.b>700)o.push(A.k9(10,A.bR4("assets/campus/maintenance.svg",l,150),l,l,l,5,l,l))
 o.push(A.ajq(s,l))
 return A.eL(r,A.e5(B.aA,o,B.A,B.av,l),l,l,l,l)}}
 A.bsx.prototype={
@@ -161528,7 +161528,7 @@ A.Od.prototype={
 C(a){return new A.i5(new A.aEC(this),null)}}
 A.aEC.prototype={
 $2(a,b){var s=b.d/b.b>1.7777777777777777?B.Rm:B.nB
-return A.bEW("res/init_background.jpg",B.cC,this.a.c,B.tI,null,s,null,null)},
+return A.bEW("assets/init_background.jpg",B.cC,this.a.c,B.tI,null,s,null,null)},
 $S:1157}
 A.acw.prototype={
 C(a){return B.aqx}}
@@ -161747,7 +161747,7 @@ return A.w($async$HC,r)},
 C(a){var s=this,r=null,q=A.bA("child"),p=t.l,o=t.p
 if(s.e){p=Math.min(A.ar(a,r,p).w.a.a,500)
 q.b=A.dw(r,A.bk(A.a([A.a4(A.aC("SignIn.RegisterTitle"),r,r,r,r,A.E(a).ok.f,r,r,r),B.bw,A.a4(A.aC("SignIn.RegisterCaption"),r,r,r,r,A.E(a).ok.r,B.ae,r,r),B.bw,A.lZ(!1,r,A.j3(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.mJ,A.aC("SignIn.RegisterDisplayName"),r,r,B.a1J,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,s.w,r,50,r,1,!1,r,r,r,r,r,r,B.Z,r,new A.bnM()),A.lZ(!1,r,A.j3(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.mJ,A.aC("SignIn.RegisterEmail"),r,r,B.a21,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,s.x,B.auH,50,r,1,!1,r,r,r,r,r,r,B.Z,r,new A.bnN()),B.bw,new A.Y6(s.d,A.aC("SignIn.Register"),s.gb3V(),r)],o),B.u,B.bW,B.n,0,r,B.q),B.t,r,r,r,r,r,B.aBl,B.vN,r,r,r,p)}else{p=Math.min(A.ar(a,r,p).w.a.a,500)
-q.b=A.dw(r,A.bk(A.a([A.bEW("res/logo_outlined.png",B.S,r,r,r,r,100,100),B.bw,A.lZ(!1,r,A.j3(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.mJ,A.aC("SignIn.CampusID"),r,r,B.a2f,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,s.f,r,r,r,1,!1,r,r,r,r,r,r,B.Z,r,new A.bnO()),A.lZ(!1,r,A.j3(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.mJ,A.aC("SignIn.Password"),r,r,B.a1N,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,s.r,r,r,r,1,!0,r,r,r,r,r,r,B.Z,r,new A.bnP()),B.bw,new A.Y6(s.d,A.aC("SignIn.SignIn"),s.gb3C(),r),B.bw,A.a4(A.aC("SignIn.Read"),r,r,r,r,B.av9,B.ae,r,r)],o),B.u,B.bW,B.n,0,r,B.q),B.t,r,r,r,r,r,B.aBk,B.vN,r,r,r,p)}return new A.Tw(q.bn(),new A.bnQ(),r)}}
+q.b=A.dw(r,A.bk(A.a([A.bEW("assets/logo_outlined.png",B.S,r,r,r,r,100,100),B.bw,A.lZ(!1,r,A.j3(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.mJ,A.aC("SignIn.CampusID"),r,r,B.a2f,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,s.f,r,r,r,1,!1,r,r,r,r,r,r,B.Z,r,new A.bnO()),A.lZ(!1,r,A.j3(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,B.mJ,A.aC("SignIn.Password"),r,r,B.a1N,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r),!1,r,r,r,s.r,r,r,r,1,!0,r,r,r,r,r,r,B.Z,r,new A.bnP()),B.bw,new A.Y6(s.d,A.aC("SignIn.SignIn"),s.gb3C(),r),B.bw,A.a4(A.aC("SignIn.Read"),r,r,r,r,B.av9,B.ae,r,r)],o),B.u,B.bW,B.n,0,r,B.q),B.t,r,r,r,r,r,B.aBk,B.vN,r,r,r,p)}return new A.Tw(q.bn(),new A.bnQ(),r)}}
 A.bnR.prototype={
 $0(){return this.a.d=!0},
 $S:0}
@@ -162597,7 +162597,7 @@ var $async$Oa=A.t(function(a,b){if(a===1)return A.u(b,r)
 while(true)switch(s){case 0:p=A
 o=B.bc
 s=2
-return A.A($.NA().al5("res/static.json"),$async$Oa)
+return A.A($.NA().al5("assets/static.json"),$async$Oa)
 case 2:q.a=p.bS4(o.Aw(0,b,null))
 return A.v(null,r)}})
 return A.w($async$Oa,r)},
